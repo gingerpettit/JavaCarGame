@@ -4,6 +4,7 @@ public class Schwinghammer_Benjamin_exam1 {
 
     public static void main(String[] args) {
         // Creating a keyboard object
+        //To hold user input
         Scanner keyboard = new Scanner(System.in);
 
         // Creating two flags to track what user information is valid
@@ -172,6 +173,6 @@ public class Schwinghammer_Benjamin_exam1 {
         } else {
             System.out.println("A tie! Better luck next time.");
         }
-
+        keyboard.close();
     }
 }
