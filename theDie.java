@@ -17,11 +17,12 @@ public class theDie {
 	// The roll method simulates the rolling of the die
 	
 	public void roll() {
+		int number = 1;
 		// Create a random object.
 		Random rand = new Random();
 		
 		// Get a random value for the die.
-		value = rand.nextInt(sides) + 1;
+		value = rand.nextInt(sides) + number;
 	}
 	
 	// The getSides method returns the number of sides for the dice.
