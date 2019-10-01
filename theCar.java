@@ -88,6 +88,6 @@ public class theCar {
     public int getCarPosition() {
         return carPosition;
     }
-
+keyboard.close();
 
 }
