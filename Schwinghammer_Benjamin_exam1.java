@@ -98,7 +98,7 @@ public class Schwinghammer_Benjamin_exam1 {
                 System.out.println("ERROR: Number of turns must be an integer number.");
                 keyboard.next();
             }
-
+hkjhh
             System.out.println();
 
         } while (numTurns == 0);
