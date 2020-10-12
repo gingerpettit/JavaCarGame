@@ -9,7 +9,7 @@ public class theCar {
     String userChoice = "";
     theDie moveDie = new theDie(6);
     Scanner keyboard = new Scanner(System.in);
-    int parkedMulti = 1;
+    int parkedMultiple = 1;
 
 
     // A default constructor that keeps default data.
