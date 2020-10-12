@@ -3,10 +3,10 @@ import java.util.Scanner;
 public class userAccount {
 
     // Setting up variables to store string requirement data
-	int reqLength = 7;
-	int reqLower = 2;
-	int reqUpper = 3;
-	int reqDigit = 2;
+	int requireLength = 7;
+	int requireLower = 2;
+	int requireUpper = 3;
+	int requireDigit = 2;
 	int numLower;
 	int numUpper;
 	int numDigit;
